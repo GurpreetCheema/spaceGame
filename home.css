@@ -9,9 +9,20 @@ body {
   background-size: cover;
   background-color: (255, 255, 255, 0.4);
   background-blend-mode: lighten;
+  font-family: Montserrat;
 }
 
 #starting-link {
   font-size: 1.7rem;
   text-decoration: none;
+}
+
+.page-container {
+width: 100%;
+}
+
+.page-content {
+margin: auto;
+width: 50%;
+margin-top: 15%;
 }
