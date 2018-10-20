@@ -1,0 +1,17 @@
+* {
+  color: white;
+  font-weight: 600;
+  text-align: center;
+}
+
+body {
+  background-image: url("images/home.png");
+  background-size: cover;
+  background-color: (255, 255, 255, 0.4);
+  background-blend-mode: lighten;
+}
+
+#starting-link {
+  font-size: 1.7rem;
+  text-decoration: none;
+}
