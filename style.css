@@ -19,7 +19,7 @@ body {
 
 .card {
   margin: 5px;
-  background-image: url("small-nasa.jpg");
+  background-image: url("nasa.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
