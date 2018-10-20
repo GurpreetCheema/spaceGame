@@ -13,6 +13,12 @@ body {
   background-blend-mode: lighten;
 }
 
+header {
+  background-color: #205dac;
+  border-bottom: solid 2px #000;
+  margin-top: -1.5rem;
+}
+
 .grid {
   max-width: 960px;
   margin: 0 auto;
