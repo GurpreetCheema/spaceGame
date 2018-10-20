@@ -51,7 +51,7 @@ body {
 }
 
 .front {
-  background: #FAB942 url('../img/topPart.png') no-repeat center center / contain;
+  background: rgba(122, 177, 249, 0.7) url('../img/topPart.png') no-repeat center center / contain;
 }
 
 .back {

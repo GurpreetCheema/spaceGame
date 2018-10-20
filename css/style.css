@@ -42,7 +42,7 @@ body {
 
 .front {
   z-index: 2;
-  background: #FAB942 url('../img/topPart.png') no-repeat center center / contain;
+  background: #7ab1f9 url('../img/topPart.png') no-repeat center center / contain;
 }
 
 .back {
