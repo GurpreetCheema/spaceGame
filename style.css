@@ -1,12 +1,5 @@
-*,
-*::before,
-*::after {
+* {
   box-sizing: border-box;
-}
-
-body {
-  margin: 20px 0;
-  background: #6589F9;
 }
 
 .grid {
