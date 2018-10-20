@@ -1,5 +1,5 @@
 const cardsArray = [{
-    'name': 'star1',
+  'name': 'star1',
     'img': 'images/1.jpg',
   },
   {
