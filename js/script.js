@@ -1,52 +1,55 @@
+
+
 var cardsArray = [{
   'name': 'star1',
-  'img': 'images/1.jpg',
-},
-{
-  'name': 'star2',
-  'img': 'images/2.jpg',
-},
-{
-  'name': 'star3',
-  'img': 'images/3.jpg',
-},
-{
-  'name': 'star5',
-  'img': 'images/5.jpg',
-},
-{
-  'name': 'star6',
-  'img': 'images/6.jpg',
-},
-{
-  'name': 'star7',
-  'img': 'images/7.jpg',
-},
-{
-  'name': 'star8',
-  'img': 'images/8.jpg',
-},
-{
-  'name': 'nasa',
-  'img': 'img/nasa.png',
-},
-{
-  'name': 'star9',
-  'img': 'images/9.jpg',
-},
-{
-  'name': 'star10',
-  'img': 'images/10.jpg',
-},
-{
-  'name': 'star11',
-  'img': 'images/11.jpg',
-},
-{
-  'name': 'star12',
-  'img': 'images/12.jpg',
-},
-];
+      'img': 'img/1.png',
+    },
+    {
+      'name': 'star2',
+      'img': 'img/2.png',
+    },
+    {
+      'name': 'star3',
+      'img': 'img/3.png',
+    },
+    {
+      'name': 'star4',
+      'img': 'img/4.png',
+    },
+    {
+      'name': 'star5',
+      'img': 'img/5.png',
+    },
+    {
+      'name': 'star6',
+      'img': 'img/6.png',
+    },
+    {
+      'name': 'star7',
+      'img': 'img/7.png',
+    },
+    {
+      'name': 'star8',
+      'img': 'img/8.png',
+    },
+
+    {
+      'name': 'star9',
+      'img': 'img/9.png',
+    },
+    {
+      'name': 'star10',
+      'img': 'img/10.png',
+    },
+    {
+      'name': 'star11',
+      'img': 'img/11.png',
+    },
+    {
+      'name': 'star12',
+      'img': 'img/12.png',
+    },
+  ];
 var gameGrid = cardsArray.concat(cardsArray).sort(function () {
   return 0.5 - Math.random();
 });
