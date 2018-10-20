@@ -12,6 +12,11 @@ body {
   font-family: Montserrat;
 }
 
+header {
+  background-color: #205dac;
+  border-bottom: solid 2px #000;
+}
+
 #starting-link {
   font-size: 1.7rem;
   text-decoration: none;
