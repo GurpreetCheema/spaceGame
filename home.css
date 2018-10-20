@@ -17,6 +17,21 @@ body {
   text-decoration: none;
 }
 
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: rgba(32, 93, 172, 1.0);
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    width: 50%;
+    border: 2px solid #000;
+}
+
 .page-container {
 width: 100%;
 }
