@@ -1,7 +1,6 @@
 * {
   color: white;
   font-weight: 600;
-  text-align: center;
 }
 
 body {
@@ -15,6 +14,7 @@ body {
 header {
   background-color: #205dac;
   border-bottom: solid 2px #000;
+  margin: -1rem;
 }
 
 #starting-link {
@@ -38,7 +38,8 @@ header {
 }
 
 .page-container {
-width: 100%;
+    width: 100%;
+    text-align: center;
 }
 
 .page-content {
