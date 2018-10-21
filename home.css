@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("spaceGame/images/home.png");
+  background-image: url("../images/home.png");
   background-size: cover;
   background-color: (255, 255, 255, 0.4);
   background-blend-mode: lighten;
