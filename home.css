@@ -13,6 +13,12 @@ body {
   margin: 0px;
 }
 
+header > a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
 /* Phone and Tablet Styles */
 @media only screen and (max-width: 767px) {
     header > img {
@@ -36,6 +42,7 @@ header {
 
 header > img {
   height: 6rem;
+  vertical-align: middle;
 }
 
 footer {
