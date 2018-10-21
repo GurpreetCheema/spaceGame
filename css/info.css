@@ -1,5 +1,7 @@
 body {
   margin: 0px;
+  background-image: url("../img/info.jpg");
+  background-size: cover;
 }
 
 /* Phone and Tablet Styles */
@@ -54,6 +56,8 @@ footer > a {
   position: relative;
   overflow: hidden;
 }
+
+
 
 .reveal-text-on-image:before,
 .reveal-text-on-image:after {
