@@ -33,6 +33,8 @@ header {
     color: white;
     font-weight: bold;
     margin: auto;
+    margin-top: 1rem;
+    margin-bottom: -2.8rem;
     width: 50%;
     border: 2px solid #000;
     text-decoration: none;
@@ -43,13 +45,15 @@ header {
                -1px 1px 0 #000,
                 1px 1px 0 #000;
 }
-
+.hubble-link{
+  font-size: 1.8rem;
+}
 .hubble-info {
       text-shadow: -1px -1px 0 #000,
                     1px -1px 0 #000,
                    -1px 1px 0 #000,
                     1px 1px 0 #000;
-      font-size: 2rem;
+      font-size: 1.8rem;
       margin-bottom: 10px;
 
 }
