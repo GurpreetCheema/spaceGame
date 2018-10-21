@@ -26,7 +26,6 @@ header {
 .button {
     display: block;
     width: 115px;
-    height: 25px;
     background: rgba(32, 93, 172, 1.0);
     padding: 15px;
     text-align: center;
@@ -46,7 +45,7 @@ header {
                     1px 1px 0 #000;
       font-size: 2rem;
       margin-bottom: 10px;
-      text-decoration: none;
+      
 }
 
 .hubble-info > a {
@@ -61,5 +60,5 @@ header {
 .page-content {
 margin: auto;
 width: 50%;
-margin-top: 15%;
+margin-top: 5%;
 }
