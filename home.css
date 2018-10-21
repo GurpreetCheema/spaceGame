@@ -1,0 +1,116 @@
+* {
+  color: white;
+  font-weight: 600;
+}
+
+body {
+  background-image: url("spaceGame/images/home.png");
+  background-size: cover;
+  background-color: (255, 255, 255, 0.4);
+  background-blend-mode: lighten;
+  font-family: Montserrat;
+  font-size: 1.4rem;
+  margin: 0px;
+}
+
+header > a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.4rem;
+  padding: 12rem;
+}
+
+/* Phone and Tablet Styles */
+@media only screen and (max-width: 767px) {
+    header > img {
+      height: 6rem;
+    }
+
+    footer > a {
+      font-size: 1.4rem;
+      padding: 1rem;
+    }
+}
+
+header, footer {
+  background-color: #205dac;
+  border-bottom: solid 2px #000;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+header > img {
+  height: 6rem;
+  vertical-align: middle;
+}
+
+footer {
+  padding: 2rem;
+  margin-top: 2rem;
+  border-bottom: none;
+  border-top: solid 2px #000;
+}
+
+footer > a {
+  padding-left: 12rem;
+}
+
+#starting-link {
+  font-size: 1.7rem;
+  text-decoration: none;
+}
+
+.button {
+    display: block;
+    width: 115px;
+    background: rgba(32, 93, 172, 1.0);
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: -2.8rem;
+    width: 50%;
+    border: 2px solid #000;
+    text-decoration: none;
+}
+
+.text {
+  text-shadow: -1px -1px 0 #000,
+                1px -1px 0 #000,
+               -1px 1px 0 #000,
+                1px 1px 0 #000;
+}
+
+.hubble-link{
+  font-size: 1.8rem;
+}
+.hubble-info {
+      text-shadow: -1px -1px 0 #000,
+                    1px -1px 0 #000,
+                   -1px 1px 0 #000,
+                    1px 1px 0 #000;
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+
+}
+
+.hubble-info > a {
+    font-size: 2.5rem;
+}
+
+.page-container {
+    min-height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.page-content {
+margin: auto;
+width: 50%;
+margin-top: 5%;
+}
