@@ -18,6 +18,10 @@ header, footer {
   border-bottom: solid 2px #000;
 }
 
+header {
+  margin-bottom: 2rem;
+}
+
 footer {
   padding: 2rem;
   margin-top: 2rem;
