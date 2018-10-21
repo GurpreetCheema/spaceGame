@@ -10,6 +10,7 @@ body {
   background-image: url("../img/info.jpg");
   background-color: rgba(255, 255, 255, 0.2);
   background-blend-mode: lighten;
+  background-size: cover;
 }
 
 /* Phone and Tablet Styles */
@@ -24,6 +25,10 @@ body {
 header, footer {
   background-color: #205dac;
   border-bottom: solid 2px #000;
+}
+
+.main {
+  text-align: center;
 }
 
 header {
@@ -125,7 +130,6 @@ footer > a {
    bottom: 0;
    width: 100%;
    color: white;
-
 }
 
 .footerHome {
