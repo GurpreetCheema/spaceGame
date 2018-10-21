@@ -17,6 +17,7 @@ header > a {
   color: #fff;
   font-weight: 600;
   font-size: 1.4rem;
+  padding: 12rem;
 }
 
 /* Phone and Tablet Styles */
@@ -44,12 +45,21 @@ header > img {
   height: 6rem;
   vertical-align: middle;
 }
+.copyright {
+  font-size: 1.4rem;
+  color: white;
+  text-align: center;
+}
 
 footer {
   padding: 2rem;
   margin-top: 2rem;
   border-bottom: none;
   border-top: solid 2px #000;
+}
+
+footer > a {
+  padding-left: 12rem;
 }
 
 #starting-link {

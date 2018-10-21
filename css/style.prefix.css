@@ -36,6 +36,7 @@ header > a {
   color: #fff;
   font-weight: 600;
   font-size: 1.4rem;
+  padding-left: 14rem;
 }
 
 header > img {
@@ -53,6 +54,7 @@ footer {
 footer > a {
   color: white;
   font-size: 2rem;
+  padding-left: 12rem;
 }
 
 .grid {
@@ -67,7 +69,11 @@ footer > a {
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
 }
-
+.copyright {
+  font-size: 1.4rem;
+  color: white;
+  text-align: center;
+}
 .card {
   position: relative;
   -webkit-transition: all .4s linear;
