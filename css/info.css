@@ -1,3 +1,37 @@
+/* Phone and Tablet Styles */
+@media only screen and (max-width: 767px) {
+
+    footer > a {
+      font-size: 1.4rem;
+      padding: 1rem;
+    }
+}
+
+header, footer {
+  background-color: #205dac;
+  border-bottom: solid 2px #000;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+header > img {
+  height: 6rem;
+}
+
+footer {
+  padding: 2rem;
+  margin-top: 2rem;
+  border-bottom: none;
+  border-top: solid 2px #000;
+}
+
+footer > a {
+  color: white;
+  font-size: 2rem;
+}
+
 .reveal-text-on-image {
   width: 200px;
   height: 200px;
