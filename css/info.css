@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  background-image: url("../img/info.jpg");
+  background-image: url("../images/info.jpg");
   background-color: rgba(255, 255, 255, 0.2);
   background-blend-mode: lighten;
   background-size: cover;
