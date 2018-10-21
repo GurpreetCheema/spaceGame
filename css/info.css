@@ -11,6 +11,8 @@
   overflow: hidden;
 }
 
+
+
 .reveal-text-on-image:before,
 .reveal-text-on-image:after {
   content: "";
